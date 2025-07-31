@@ -1,9 +1,12 @@
-djvulibre (3.5.28-2.1~deb12u1) bookworm-security; urgency=high
+djvulibre (3.5.28-2.2) unstable; urgency=medium
 
-  * Non-maintainer upload by the Security Team.
-  * Rebuild for bookworm-security
+  * Non-maintainer upload.
+  * CVE-2021-46310: Divide by zero in IW44Image::Map::image()
+    (Closes: #1052668)
+  * CVE-2021-46312: Divide by zero in IWBitmap::Encode::init()
+    (Closes: #1052669)
 
- -- Salvatore Bonaccorso <carnil@debian.org>  Fri, 04 Jul 2025 21:33:39 +0200
+ -- Adrian Bunk <bunk@debian.org>  Fri, 18 Jul 2025 20:57:51 +0300
 
 djvulibre (3.5.28-2.1) unstable; urgency=high
 
