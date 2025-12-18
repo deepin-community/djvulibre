@@ -1,3 +1,10 @@
+djvulibre (3.5.28-2.2~deb11u1) bullseye-security; urgency=medium
+
+  * Non-maintainer upload by the LTS Team.
+  * Rebuild for bullseye.
+
+ -- Adrian Bunk <bunk@debian.org>  Mon, 21 Jul 2025 13:50:32 +0300
+
 djvulibre (3.5.28-2.2) unstable; urgency=medium
 
   * Non-maintainer upload.
